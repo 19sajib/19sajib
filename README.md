@@ -47,7 +47,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sajib's GitHub Stats" src="https://github-readme-stats.2sajib2.vercel.app/api?username=2sajib2&show_icons=true&hide_border=true" />
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2sajib2)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=2sajib2&show_icons=true)
 
 </details>
 
