@@ -1,10 +1,11 @@
 ### Hi there, I'm Sajib 👋
 #### Md Abu Bakkar Siddiqe Sajib
 <br />
-## I'm a Student, Developer, and Digital Marketer!!
+## I'm a Student, Developer, Graphic Designer, and Digital Marketer!!
 
-- 🔭 I’m currently working on my Undergraduate Final Project
-- 🌱 I’m currently learning MERN Stack 
+- 🔭 I'm a fresher, currently looking for a new opportunity
+- 🌱 I’m currently working with MERNG Stack
+- 🔧 I like to explore new technologies
 - 👯 I'm looking to collaborate with other new dev
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and football
@@ -53,6 +54,6 @@
 
 [twitter]: https://twitter.com/2sajib2
 [instagram]: https://instagram.com/2sajib2
-[linkedin]: https://linkedin.com/in/abu-sajib-b3b031124
+[linkedin]: https://linkedin.com/in/2sajib2
 
 
