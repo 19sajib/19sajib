@@ -1,6 +1,6 @@
 ### Hi there, I'm Sajib 👋
 #### Md Abu Bakkar Siddiqe Sajib
-### I'm a Student, Developer, Graphic Designer, and Digital Marketer!!
+### I'm a Student and MERNG Stack Developer!!
 
 # 💫About Me :
 🔭 I'm a fresher, currently looking for a new opportunity<br/>
