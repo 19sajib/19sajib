@@ -20,14 +20,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=19sajib&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=19sajib&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# Profile Views 👀
+![Visitor Count](https://profile-counter.glitch.me/{19sajib}/count.svg)
+
+![](https://komarev.com/ghpvc/?username=19sajib&label=PROFILE+VIEWS&style=for-the-badge)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=19sajib&icon=0&color=11)](https://visitcount.itsvg.in)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
-
 
