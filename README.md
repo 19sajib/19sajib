@@ -44,8 +44,12 @@
 </p>
  </div>
    <br/>
-    <a href="https://github.com/kokonior/github-readme-stats"><img alt="Sajib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=19sajib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kokonior/github-readme-stats"><img alt="Sajib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19sajib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/kokonior/github-readme-stats">
+ <img alt="Sajib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=19sajib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="54%"  />
+</a>
+  <a href="https://github.com/kokonior/github-readme-stats">
+ <img alt="Sajib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19sajib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%"  />
+</a>
   <br/>
 
 <a href="https://github.com/19sajib/github-readme-activity-graph"><img alt="Sajib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=19sajib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
