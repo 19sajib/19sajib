@@ -44,10 +44,10 @@
 </p>
  </div>
    <br/>
-    <a href="https://github.com/kokonior/github-readme-stats">
+    <a href="https://github.com/19sajib">
  <img alt="Sajib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=19sajib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="54%"  />
 </a>
-  <a href="https://github.com/kokonior/github-readme-stats">
+  <a href="https://github.com/19sajib">
  <img alt="Sajib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19sajib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%"  />
 </a>
   <br/>
@@ -56,7 +56,7 @@
 <br/>
 
 ## 👀 Views and Followers ❤
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/19sajib">
     <img src="https://komarev.com/ghpvc/?username=19sajib">
 </a>
 <a href="https://github.com/19sajib?tab=followers">
