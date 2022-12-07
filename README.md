@@ -52,7 +52,8 @@
 </a>
   <br/>
 
-<a href="https://github.com/19sajib/github-readme-activity-graph"><img alt="Sajib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=19sajib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+[![Sajib's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=19sajib&bg_color=000000&color=ff7a7a&line=006da3&point=003985&area=true&hide_border=true)]([https://github.com/ashutosh00710/github-readme-activity-graph])
 <br/>
 
 ## 👀 Views and Followers ❤
