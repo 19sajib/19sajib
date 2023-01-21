@@ -6,10 +6,10 @@
 <h2>💫About Me </h2>
 🔭 I'm a fresher who loves the backend (Node Js mainly), currently looking for a new opportunity<br/>
 🌱 I’m currently working with MERNG Stack<br/>
-🔧 I like to explore new technologies<br/>
-👯 I'm looking to collaborate with other new dev<br/>
-🥅 2022 Goals: Contribute more to Open Source projects<br/>
-⚡ Fun fact: I love to play guitar and football<br/>
+🔧 Blockchain Enthusiast<br/>
+⚡ Problem Solver<br/>
+🥅 2023 Goals: Contribute more to Open Source projects<br/>
+👯 Fun fact: I love to play guitar and football<br/>
 
 <h1 align="center"> 💻Tech Stack </h1>
 <p>
