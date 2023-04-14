@@ -4,7 +4,6 @@
 <h2 align="center">Md Abu Bakkar Siddiqe Sajib</h1>
 <br/>
 <h2>💫About Me </h2>
-🔭 I'm a fresher who loves the backend (Node Js mainly), currently looking for a new opportunity<br/>
 🌱 I’m currently working with MERNG Stack<br/>
 🔧 Blockchain Enthusiast<br/>
 ⚡ Problem Solver<br/>
