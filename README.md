@@ -55,6 +55,17 @@
 [![Sajib's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=19sajib&bg_color=000000&color=ff7a7a&line=006da3&point=003985&area=true&hide_border=true)]([https://github.com/ashutosh00710/github-readme-activity-graph])
 <br/>
 
+<h1 align="center">📊 LeetCode Stats</h1>
+
+<div align="center">
+  
+<p align="center">
+    <a href="https://github.com/kokonior/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sajib's streak" src="https://leetcard.jacoblin.cool/19sajib?theme=dark&font=Syne%20Mono&ext=heatmap"/>
+    </a>
+</p>
+ </div>
+
 ## 👀 Views and Followers ❤
 <a href="https://github.com/19sajib">
     <img src="https://komarev.com/ghpvc/?username=19sajib">
