@@ -1,14 +1,11 @@
-[![@19sajib's Holopin board](https://holopin.me/19sajib)](https://holopin.io/@19sajib)
-
 <h1 align="center">Hello World, I'm Sajib 👋</h1>
 <h2 align="center">Md Abu Bakkar Siddiqe Sajib</h1>
 <br/>
-<h2>💫About Me </h2>
-🌱 I’m currently working with MERNG Stack<br/>
-🔧 Blockchain Enthusiast<br/>
-⚡ Problem Solver<br/>
-🥅 2023 Goals: Contribute more to Open Source projects<br/>
-👯 Fun fact: I love to play guitar and football<br/>
+<h2>💫Summary </h2>
+🌱 As a dedicated Software Engineer with a strong foundation in backend development, I have consistently demonstrated proficiency in technologies such as NodeJS, NestJS, and Typescript. My expertise extends to designing and implementing RESTful APIs, optimizing database performance with MongoDB, and contributing to the development of scalable microservices within a Microservice Architecture. I have successfully integrated third-party APIs to enhance collaboration with industry leaders.<br/>
+
+<h2>🔧Career Objective </h2>
+⚡ Motivated by a desire to evolve into an architect-level backend engineer, I am eager to leverage my current skills and continue expanding my knowledge. My goal is to lead in the design and development of complex backend systems, implementing robust and scalable solutions that align with industry best practices.<br/>
 
 <h1 align="center"> 💻Tech Stack </h1>
 <p>
@@ -50,10 +47,6 @@
  <img alt="Sajib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19sajib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%"  />
 </a>
   <br/>
-
-
-[![Sajib's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=19sajib&bg_color=000000&color=ff7a7a&line=006da3&point=003985&area=true&hide_border=true)]([https://github.com/ashutosh00710/github-readme-activity-graph])
-<br/>
 
 <h1 align="center">📊 LeetCode Stats</h1>
 
