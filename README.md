@@ -50,16 +50,16 @@
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 </p>
 
-<h1 align="center">📊 Github Stats</h1>
+<h1 align="center">📊 Github Summry</h1>
 
-<div align="center">
+<!-- <div align="center"> -->
   
 <!-- <p align="center"> -->
 <!--     <a href="https://github.com/kokonior/github-readme-streak-stats"> -->
 <!--         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sajib's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=19sajib&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> -->
 <!--     </a> -->
 <!-- </p> -->
- </div>
+<!-- </div> -->
    <br/>
     <a href="https://github.com/19sajib">
  <img alt="Sajib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=19sajib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="54%"  />
