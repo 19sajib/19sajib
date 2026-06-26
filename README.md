@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Sajib 👋</h1>
 <h2 align="center">Md Abu Bakkar Siddiqe Sajib</h1>
 <h2>💫Introduction </h2>
-🌱 As a dedicated Software Engineer with a strong foundation in backend development, I have consistently demonstrated proficiency in technologies such as NodeJS, NestJS, and Typescript. My expertise extends to designing and implementing RESTful APIs, optimizing database performance with MongoDB, and contributing to the development of scalable microservices within a Microservice Architecture. I have successfully integrated third-party APIs to enhance collaboration with industry leaders.<br/>
+🌱 I'm a Backend Software Engineer who builds scalable, distributed systems — and increasingly, brings AI into them. I work primarily in Node.js, NestJS, and TypeScript (with Python in my toolkit), designing event-driven microservices, type-safe APIs, and backend infrastructure that stays reliable under real production load.<br/>
 <h3 align="left">Current Tech Stack:</h3>
 <p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -18,7 +18,7 @@
  </p>
 
 <h2>🔧Career Objective </h2>
-⚡ Motivated by a desire to evolve into an architect-level backend engineer, I am eager to leverage my current skills and continue expanding my knowledge. My goal is to lead in the design and development of complex backend systems, implementing robust and scalable solutions that align with industry best practices.<br/>
+🎯 My goal is to grow into an architect-level backend engineer — leading the design of complex, high-concurrency systems that are robust, scalable, and grounded in solid engineering principles. Always open to connecting with people building ambitious backend and AI-driven products.<br/>
 <h3 align="left">Learning Queue:</h3>
 <p align="left">
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
